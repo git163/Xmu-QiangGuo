@@ -1,2 +1,4 @@
 # Xmu-QiangGuo
-QiangGuo-40+
+自主学习
+## 说明
+- 1、解压、运行Run.bat
